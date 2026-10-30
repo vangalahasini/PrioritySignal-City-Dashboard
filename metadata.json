@@ -1,0 +1,8 @@
+{
+  "name": "PrioritySignal – City Dashboard",
+  "description": "People First. Smarter Signals. Better Cities. Transit-first traffic signal optimization evaluating person-delay, bus occupancy, and commuter delay reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
